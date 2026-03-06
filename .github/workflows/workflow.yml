@@ -1,4 +1,4 @@
-name: Fluxo de trabalho de CI
+name: WorkFlow CI-CD
 
 on:
   push:
